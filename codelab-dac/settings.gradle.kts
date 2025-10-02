@@ -1,1 +1,0 @@
-rootProject.name = "codelab-dac"
